@@ -1,0 +1,17 @@
+C:\Users\Shinelon\Desktop\停车收费管理系统\DC.Common\bin\Debug\DC.Common.dll
+C:\Users\Shinelon\Desktop\停车收费管理系统\DC.Common\bin\Debug\DC.Common.pdb
+C:\Users\Shinelon\Desktop\停车收费管理系统\DC.Common\obj\Debug\DC.Common.csprojResolveAssemblyReference.cache
+C:\Users\Shinelon\Desktop\停车收费管理系统\DC.Common\obj\Debug\DC.Common.dll
+C:\Users\Shinelon\Desktop\停车收费管理系统\DC.Common\obj\Debug\DC.Common.pdb
+C:\Users\杨ShineLon\Desktop\停车收费管理系统\DC.Common\bin\Debug\DC.Common.dll
+C:\Users\杨ShineLon\Desktop\停车收费管理系统\DC.Common\bin\Debug\DC.Common.pdb
+C:\Users\杨ShineLon\Desktop\停车收费管理系统\DC.Common\obj\Debug\DC.Common.csprojResolveAssemblyReference.cache
+C:\Users\杨ShineLon\Desktop\停车收费管理系统\DC.Common\obj\Debug\DC.Common.csproj.CoreCompileInputs.cache
+C:\Users\杨ShineLon\Desktop\停车收费管理系统\DC.Common\obj\Debug\DC.Common.dll
+C:\Users\杨ShineLon\Desktop\停车收费管理系统\DC.Common\obj\Debug\DC.Common.pdb
+C:\Users\杨ShineLon\Desktop\停车管理系统\DC.Common\bin\Debug\DC.Common.dll
+C:\Users\杨ShineLon\Desktop\停车管理系统\DC.Common\bin\Debug\DC.Common.pdb
+C:\Users\杨ShineLon\Desktop\停车管理系统\DC.Common\obj\Debug\DC.Common.csprojResolveAssemblyReference.cache
+C:\Users\杨ShineLon\Desktop\停车管理系统\DC.Common\obj\Debug\DC.Common.csproj.CoreCompileInputs.cache
+C:\Users\杨ShineLon\Desktop\停车管理系统\DC.Common\obj\Debug\DC.Common.dll
+C:\Users\杨ShineLon\Desktop\停车管理系统\DC.Common\obj\Debug\DC.Common.pdb
